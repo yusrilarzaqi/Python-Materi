@@ -1,0 +1,4 @@
+Membuat file dengan menggunakan python
+Ini baris kedua
+Ini baris ketiga
+Ini baris keempatIni baris baru menggunakan appending
