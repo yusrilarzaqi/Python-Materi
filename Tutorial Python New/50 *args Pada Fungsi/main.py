@@ -3,9 +3,6 @@
 # Memasukan data/argument
 
 
-from types import resolve_bases
-
-
 def fungsi(nama, tinggi, berat):
     print(f"nama:\t{nama}\ntinggi:\t{tinggi}\nberat:\t{berat}")
 
