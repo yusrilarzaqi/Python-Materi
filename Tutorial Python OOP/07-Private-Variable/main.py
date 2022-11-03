@@ -14,7 +14,9 @@ class Hero:
 
 		# variabel protected
 		self._protected="Protected"
-		# bisa diru
+		# bisa dirubah
+    def get_pivate(self) -> str:
+        return self.__private
 
 # main program
 
@@ -23,5 +25,3 @@ print(shen.jumlah)
 shen._protected='Hello'
 print(shen._protected)
 print(shen.__dict__)
-
-
